@@ -3,11 +3,11 @@
 
     <name>Keycloak VATSIM</name>
     <description/>
-    <modelVersion>4.0.0</modelVersion>
+    <modelVersion>4.0.1</modelVersion>
 
     <groupId>org.keycloak.extensions</groupId>
     <artifactId>keycloak-vatsim</artifactId>
-    <version>0.6.0</version>
+    <version>0.6.1</version>
     <packaging>jar</packaging>
 
     <properties>
